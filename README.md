@@ -1,5 +1,6 @@
 # codesoft-task3
-//ATM INTERFACE
+//ATM INTERFACE//
+
 import java.util.Scanner;
 
 class BankAccount {
